@@ -1,4 +1,4 @@
-package sample.demo;
+package sample.employee;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
